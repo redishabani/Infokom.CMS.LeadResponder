@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infokom.CMS.LeadResponder.Application\Infokom.CMS.LeadResponder.Application.csproj" />
+    <ProjectReference Include="..\Infokom.CMS.LeadResponder.Infrastructure\Infokom.CMS.LeadResponder.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
